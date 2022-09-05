@@ -2,8 +2,7 @@
 
 <!--Write about you here-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuarya1610&theme=codeSTACKr&show_icons=true)
 
 
 
