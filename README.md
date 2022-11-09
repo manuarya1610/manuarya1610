@@ -1,6 +1,6 @@
-<h1 align="center">
- <img src="img/head.png" />
-</h1>
+<div align="center">
+    <img align="center" src="img/head.png" width="100%">
+</div>
 
 <h1 align="center">Hi 👋, I'm Manu Arya</h1>
 
