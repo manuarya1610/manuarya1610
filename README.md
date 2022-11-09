@@ -1,4 +1,4 @@
-<img src="head.png" width="100%">
+<img src="head.png">
 
 <h1 align="center">Hi 👋, I'm Manu Arya</h1>
 
