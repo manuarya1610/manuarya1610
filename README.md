@@ -1,7 +1,4 @@
-![alt text](https://github.com/manuarya1610/manuarya1610/blob/main/img/Head.png?raw=true)
-
-
-
+![alt text](https://github.com/manuarya1610/manuarya1610/blob/main/img/banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Manu Arya</h1>
 
@@ -27,7 +24,6 @@
 - 📫 How to reach me **you can find out through my website**
 
 - ⚡ Fun fact **I am always up for a challenge!**
-
 
 <h3 align="center">Connect with me:</h3>
 
