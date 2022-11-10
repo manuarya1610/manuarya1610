@@ -13,7 +13,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuarya1610&label=Profile%20views&color=0e75b6&style=flat" alt="manuarya1610" /> </p>
 
-- Checkout my personal website🤯 [https://manu-arya.netlify.app/](https://manu-arya.netlify.app/)
+- Checkout my personal website🤯 [[https://manuarya.tech/](https://www.manuarya.tech)]
 
 - 🌱 I’m currently learning **MERN stack**
 
