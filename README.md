@@ -1,6 +1,8 @@
 ![alt text](https://github.com/manuarya1610/manuarya1610/blob/main/img/Head.png?raw=true)
 
 
+
+
 <h1 align="center">Hi 👋, I'm Manu Arya</h1>
 
 <h3 align="center">I am a  full stack and software developer</h3>
