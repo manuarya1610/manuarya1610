@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/manuaryaddn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuaryaddn/" height="30" width="40" /></a>
 <a href="https://leetcode.com/manuarya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com" height="30" width="40" /></a>
-<a href="https://www.manuarya.tech" target="blank"><img align="center" src="https://github.com/manuarya1610/manuarya1610/blob/main/img/title.png" alt="https://leetcode.com" height="30" width="40" /></a>
+<a href="https://www.manuarya.tech" target="blank"><img align="center" src="https://github.com/manuarya1610/manuarya1610/blob/main/img/title.png" alt="https://leetcode.com" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
