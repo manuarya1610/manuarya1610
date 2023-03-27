@@ -15,14 +15,14 @@
 
 - Checkout my personal website🤯 [[  manuarya.tech  ](https://www.manuarya.tech)]
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack**πø
 
 - 👯 I’m looking to collaborate on **cool, amazing projects**
 
 - 🔭 I’m currently working on **something confidential🤫**
 
 - 📫 How to reach me **you can find out through my website**
-
+ø
 - ⚡ Fun fact **I am always up for a challenge!**
 
 <h3 align="center">Connect with me:</h3>
