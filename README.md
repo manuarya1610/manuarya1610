@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Manu Arya</h1>
 
-<h3 align="center">I am a  full stack and software developer</h3>
+<h3 align="center">I am a software engineering student</h3>
 <br>
 
 <div align="center">
