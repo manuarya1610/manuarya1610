@@ -13,7 +13,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuarya1610&label=Profile%20views&color=0e75b6&style=flat" alt="manuarya1610" /> </p>
 
-- Checkout my personal website🤯 [[  manuarya.tech  ](https://www.manuarya.tech)]
+- Checkout my personal website🤯 [[  manuarya.tech  ]([https://www.manuarya.tech](https://manu-arya.netlify.app))]
 
 - 🌱
 
