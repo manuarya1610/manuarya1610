@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Manu Arya</h1>
 
-<h3 align="center">I am a software engineering student</h3>
+<h3 align="center">Data Engineer | Enterprise Data Platforms | Databricks Certified Professional</h3>
 <br>
 
 <div align="center">
@@ -13,17 +13,111 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuarya1610&label=Profile%20views&color=0e75b6&style=flat" alt="manuarya1610" /> </p>
 
-- Checkout my personal website🤯 [[https://manu-arya.netlify.app]]
+- 💼 **Data Engineer** at Celebal Technologies | Building enterprise data platforms
+- 🚀 Specialized in **Databricks, Azure Data Factory, Delta Lake** — Handling billion-scale workloads
+- 🔭 Currently building **AI-powered code migration solutions** with MCP servers and GenAI
+- 🏆 Databricks Certified Data Engineer Professional | GenAI Engineer Certified
+- 👯 Seeking to collaborate on **innovative data engineering and AI automation projects**
+- 📫 Connect: **manuddn15@gmail.com** | [Portfolio](https://manu-arya.netlify.app)
 
-- 🌱
+---
 
-- 👯 I’m looking to collaborate on **cool, amazing projects**
+## 🚀 Professional Overview
 
-- 🔭 I’m currently working on **something confidential🤫**
+I architect and optimize **enterprise-grade data platforms** that process massive data volumes reliably and efficiently. My focus is on building scalable solutions that solve complex data engineering challenges at scale.
 
-- 📫 How to reach me **you can find out through my website**
-ø
-- ⚡ Fun fact **I am always up for a challenge!**
+**Core Expertise:**
+- 🏗️ Designing metadata-driven data pipelines and governance frameworks
+- ⚡ Optimizing large-scale data operations and reducing pipeline latency
+- 🤖 Building AI-powered automation tools for data engineering workflows
+- 🔐 Implementing enterprise data governance, security, and observability
+
+---
+
+## 💡 Key Projects & Impact
+
+### **Enterprise Data Platform Architecture** — 10+ Billion Records
+Led end-to-end design and optimization of enterprise data platforms handling massive data volumes from multiple sources.
+
+**Key Deliverables:**
+- ⚡ Optimized pipeline runtime from **2 hours → 4 minutes** (97% reduction) through advanced ADF parallel execution patterns
+- 🚀 Engineered data ingestion framework reducing Sentinel extraction from **3 weeks → 2 days** with zero data loss
+- 🔐 Implemented comprehensive data governance with Microsoft Purview, RLS/CLS, and data lineage tracking
+- 🐛 Identified critical data duplication bug affecting data quality — escalated to Microsoft product team
+- 💰 Designed cost-optimized cluster configurations reducing infrastructure spend while maintaining SLA
+
+**Technical Stack:** Databricks, Azure Data Factory, PySpark, Delta Lake, Microsoft Sentinel, Microsoft Purview, Apache Spark
+
+**Business Impact:** Reduced operational costs, improved data quality to 100% accuracy, enabled enterprise-scale analytics
+
+---
+
+### **Data Governance & Observability Platform**
+Architected comprehensive governance solutions enabling secure, traceable, and observable data flows across enterprise.
+
+**Key Deliverables:**
+- 📊 Custom data lineage implementation with Atlas APIs and Microsoft Purview integration
+- 👁️ Built observability dashboards with table-level monitoring for Lakehouse environments
+- 🔄 Designed Delta Sharing framework for secure external data exchange without direct access
+- 🔧 Engineered metadata-driven ingestion pipelines enabling dynamic, scalable configurations
+
+**Technical Stack:** Microsoft Purview, Delta Lake, Databricks, Atlas APIs, Delta Live Tables
+
+---
+
+### **AI-Powered Code Migration Engine** (Current)
+Building intelligent automation platform to accelerate cloud migration by converting legacy ETL code to modern cloud-native pipelines.
+
+**Current Work:**
+- 🤖 Architecting MCP server-based framework for AI-driven code transformation
+- 🔄 Automating migration from QLIK to Databricks PySpark reducing manual effort by 80%+
+- 📈 Enabling faster cloud adoption and modernization for enterprise clients
+
+**Technical Stack:** MCP Servers, Generative AI, PySpark, Databricks, Python
+
+---
+
+## 🎯 Technical Expertise
+
+<div align="center">
+
+**Data Platforms:** Databricks • Azure Data Factory • Delta Lake • Microsoft Fabric • Apache Spark
+
+**Languages & Frameworks:** Python • PySpark • SQL • Java
+
+**Cloud Architecture:** Microsoft Azure (Data Factory, Databricks, Sentinel, Purview, ADLS, Fabric)
+
+**Specializations:** 
+Medallion Architecture • Metadata-Driven Pipelines • Data Governance • ETL/ELT Design • Cost Optimization • AI Automation
+
+**Tools & DevOps:** Git • Docker • Databricks Asset Bundles • Power BI
+
+</div>
+
+---
+
+## 🏆 Professional Recognition
+
+- 🥇 **Databricks Certified Data Engineer Professional** — Advanced certification demonstrating enterprise expertise
+- 🤖 **Databricks Certified Generative AI Engineer Associate** — Expertise in AI/ML automation
+- ⭐ **5-Star Performance Rating** — Consistent excellence across all project deliverables
+- 🔍 **Identified Microsoft Product Bug** — Discovered critical data issue, confirmed by Microsoft engineering team
+- 👥 **Mentor** — Guiding next generation of data engineers within organization
+
+---
+
+## 📈 By The Numbers
+
+| Impact | Scale |
+|--------|-------|
+| **Records Managed** | 10+ Billion |
+| **Largest Single Table** | 5.8 Billion records |
+| **Pipeline Speed Improvement** | 97% reduction |
+| **Data Ingestion Speed** | 90% faster (3 weeks → 2 days) |
+| **Data Sources Integrated** | 8+ enterprise platforms |
+| **Enterprise Clients** | ADNOC, ONEOK, Hayya, QE, Sidra |
+
+---
 
 <h3 align="center">Connect with me:</h3>
 
